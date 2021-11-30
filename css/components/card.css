@@ -1,0 +1,35 @@
+.page2 {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 100vh;
+}
+.card {
+	width: 500px;
+	background-color: rgba(208,170,128,0.64);
+	padding: 20px;
+	margin: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow:  10px 10px 0px rgba(208,170,128);
+	transition: background-color 0.5s ease;
+}
+
+.card img {
+	width: 100px;
+}
+
+.cards {
+	display: flex;
+}
+
+a:hover {
+	background-color: black;
+}
+
+.card:hover {
+	background-color: rgba(211,126,0,0.4);
+	transition: background-color 0.5s ease;
+}

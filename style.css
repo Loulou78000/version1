@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/navbar.css');
+@import url('divider/divider.css');
+
+
+body {
+	background-color: black;
+	margin : 0 ;
+}
+
+h1 {
+	font-family:'impact;', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	color : black;
+	margin: 10px;
+}
+
+h2 {
+	font-family: 'monospace;', sans-serif;
+	font-weight: lighter;
+	color: black;
+	margin: 0px;
+	flex-grow: 1;
+	padding-left: 10px;
+}
+
+h3 {
+	font-family: 'monospace;' sans-serif;
+	font-weight: bold;
+	color: white;
+	margin: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+

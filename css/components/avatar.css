@@ -1,0 +1,9 @@
+.avatar {
+	max-width: 20%;
+	height: auto;
+	border-radius: 50%;
+}
+
+.vignette {
+	width: 120px;
+}

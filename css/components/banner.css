@@ -1,0 +1,8 @@
+.banner {
+	background-image: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0.006180423429642645) 35%), url("../../images/van.jpg");
+	padding-top: 150px;
+	padding-bottom: 250px;
+	background-size: cover;
+	background-position: center;
+}
+
